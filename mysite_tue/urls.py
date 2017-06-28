@@ -1,4 +1,4 @@
-#!/usr/bin/env Django
+#!/usr/bin/env Django_py3
 
 """mysite_tue URL Configuration
 

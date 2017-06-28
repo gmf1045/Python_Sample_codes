@@ -1,4 +1,4 @@
-#!/usr/bin/env Django
+#!/usr/bin/env Django_py3
 
 """
 Django settings for mysite_tue project.

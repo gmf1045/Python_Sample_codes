@@ -1,4 +1,4 @@
-#!/usr/bin/env Django
+#!/usr/bin/env Django_py3
 """
 WSGI config for mysite_tue project.
 
